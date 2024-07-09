@@ -1,0 +1,21 @@
+.navbar{
+    width: 80%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+.link{
+    background-color: rgb(0, 157, 255);
+    padding: 15px;
+    border-radius: 20px;
+    color: white;
+    text-decoration: none;
+}
+
+.link:active
+{
+        background-color: blue;
+}

@@ -1,0 +1,25 @@
+
+
+.gen-img-sec
+  {
+    width: 50%;
+    margin: auto;
+  }
+  .image-generate
+  {
+
+      width: 200px;
+      height: 200px;
+      border: 2px solid #3b00fc;
+      border-radius: 15px;
+  }
+  .image-generate-img
+  {
+    width: 200px;
+    height: 200px;
+    border-radius: 15px;
+  }
+  .gen-img-sec{
+    display: flex;
+    justify-content: space-between;
+  }
